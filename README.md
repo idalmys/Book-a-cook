@@ -12,9 +12,13 @@ Idalmys Maza
 
 # Technologies Used
 jQuery
+
 Materialize CSS
+
 Firebase
+
 Bing API [for delivery purposes]
+
 Edamam API [for recipe purposes]
 
 # How works
